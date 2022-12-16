@@ -1,0 +1,44 @@
+--------- PIEZAS ROBOT TODOTERRENO ------------
+
+---------------- CHASIS ---------------------
+
+
+- 28 eles de 20mm
+- 26 eles de 30mm
+- 12 eles de 50mm
+- 6 chapas rectas de 115mm
+- 4 chapas rectas de 95mm
+- 7 chapas rectas de 35mm
+- 8 muelles 7,5cm
+- 66 tornillos M4 10mm
+- 14 tornillos M4 15mm
+- 82 tuercas M4
+- 8 tuercas autobloqueantes M4
+- 12 arandelas M4
+- varilla roscada 5M
+- 8 arandelas de goma
+
+----------------- RUEDAS -----------------------
+
+
+- 8 filtros de fregadero de 7,5cm
+- 4 tubos de pvc de 45mm y 60mm diámetro
+- 24 tornillos M4 40mm
+- neumáticos de silicona
+
+
+---------------- ELECTRÓNICA ----------------------
+
+
+- Batería de 36v de hoverboard
+- 2 motores de taladro de 18v
+- Arduino nano
+- Controlador motores L298N
+- Módulo bluetooth HC06
+- Buck conversor
+- servo de 9Kg
+- 2 microservos de 9g
+- Láser de los chinos
+- leds
+- buzzer
+- resistencias 220 ohm para los leds
