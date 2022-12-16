@@ -1,0 +1,9 @@
+ Hola, este es un proyecto para la construcción de un coche robot todo terreno fabricado con piezas de ferretería baratas pero resistentes para controlarlo mediante una app por bluetooth.
+
+
+ El coche consta de dos motores de taladro de 18V, un servo de 9kg para la dirección, un módulo bluetooth HC06, un módulo L298N para el control de los motores, dos sensores de ultrasonidos para reconocer y evitar obstáculos, una torreta láser con dos servos de 9g, luces led y un buzzer. Para controlarlo todo se usará un arduino nano.
+
+La app está hecha con app inventor. 
+
+
+ Cualquier ayuda o sugerencia es bienvenida, muchas gracias.
